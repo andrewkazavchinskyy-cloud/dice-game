@@ -17,3 +17,9 @@
 - The selected threshold starts at 20 and history is session-only.
 - Equality is a loss because both comparisons are strict.
 - The project uses local React state and has no backend or environment variables.
+
+## Delivery
+
+- Repository: https://github.com/andrewkazavchinskyy-cloud/dice-game
+- Production: https://dice-game-dusky-phi.vercel.app
+- GitHub Actions verifies linting, types, tests, build, and desktop/mobile E2E.

@@ -4,7 +4,7 @@ A small prediction game built with Next.js, TypeScript, and Material UI. Choose
 whether the next number will be under or over your threshold, then press Play to
 see the result.
 
-Live demo: _the production link will be added after the first deployment._
+Live demo: [dice-game-dusky-phi.vercel.app](https://dice-game-dusky-phi.vercel.app)
 
 ## Features
 
@@ -26,7 +26,7 @@ Live demo: _the production link will be added after the first deployment._
 
 ## Getting started
 
-Node.js 20.9 or newer is required.
+Node.js 20.19 or newer is required.
 
 ```bash
 npm install
@@ -51,3 +51,8 @@ npm run test:e2e
 - Over wins when the result is strictly higher than the selected threshold.
 - An equal result is a loss.
 - Game history is stored in memory and resets when the page is refreshed.
+
+## Links
+
+- [GitHub repository](https://github.com/andrewkazavchinskyy-cloud/dice-game)
+- [Figma design](https://www.figma.com/design/JmoRMC9MEDMIAzESih1x4N/Test-Task-DICE?node-id=0-1)
